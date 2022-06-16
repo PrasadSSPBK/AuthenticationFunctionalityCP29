@@ -1,0 +1,10 @@
+.head {
+  font-weight: 900;
+  font-family: 'Roboto';
+}
+.container {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+}

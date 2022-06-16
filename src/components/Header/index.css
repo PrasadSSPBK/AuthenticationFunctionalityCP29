@@ -1,0 +1,17 @@
+.navBarContainer {
+  display: flex;
+  max-height: 100px;
+  justify-content: center;
+}
+.ulContainer {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  list-style-position: outside;
+}
+.li {
+  font-family: 'Roboto';
+  font-weight: 700;
+  margin-left: 10px;
+  margin-right: 10px;
+}
